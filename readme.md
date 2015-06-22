@@ -1,0 +1,1 @@
+Sencillo programa que genera de forma aleatoria un número cmprendido entre el 0 y el 1.
